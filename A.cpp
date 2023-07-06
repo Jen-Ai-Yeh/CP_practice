@@ -3,6 +3,6 @@
  
  int main() {
  	int n;
- 	cin >> n;
+ 	cin >> n; // input n 
 	cout << n << endl; 
  } 
