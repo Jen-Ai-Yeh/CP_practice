@@ -4,5 +4,5 @@
  int main() {
  	int n;
  	cin >> n; // input n 
-	cout << n << endl; 
+	cout << n << endl; // output n
  } 
